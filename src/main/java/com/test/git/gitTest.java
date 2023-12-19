@@ -13,6 +13,6 @@ public class gitTest {
         System.out.printf("hello git!");
         System.out.printf("push git!");
         System.out.printf("pull git!");
-        System.out.printf("pull git2!");
+        System.out.printf("pull git2!dfgdf");
     }
 }

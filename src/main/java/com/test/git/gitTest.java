@@ -11,5 +11,6 @@ public class gitTest {
         System.out.printf("hello git!333");
         System.out.printf("hello git!");
         System.out.printf("hello git!");
+        System.out.printf("push git!");
     }
 }

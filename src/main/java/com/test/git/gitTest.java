@@ -14,5 +14,6 @@ public class gitTest {
         System.out.printf("push git!");
         System.out.printf("pull git!");
         System.out.printf("pull git2!");
+        System.out.printf("gitee git!");
     }
 }
